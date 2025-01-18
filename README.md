@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Alumni Portal(Aimed at bridging the gap between alumni and the college via channels.)**
 
-- 👨‍💻 My Portfolio [https://midhun-live.netlify.app/](https://midhun-live.netlify.app/)
+- 👨‍💻 My Portfolio [https://midhun-live.netlify.app/](https://midhun.live/)
 
 - 📫 How to reach me **midhunchakkaravarthy07@gmail.com**
 
